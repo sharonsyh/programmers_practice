@@ -1,1 +1,1 @@
-These are codes for coding samples.
+These are codes for c++ coding samples.
