@@ -1,1 +1,1 @@
-This is my final project
+These are codes for coding samples.
